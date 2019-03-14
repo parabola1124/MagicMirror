@@ -1,0 +1,22 @@
+.fishTank {
+    text-align: center;
+}
+
+.fish {
+    display: inline-block;
+}
+
+.fishPic {
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.fishName {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.fishsize{
+    height:300px;
+    width:400px
+}
